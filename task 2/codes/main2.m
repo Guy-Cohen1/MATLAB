@@ -1,0 +1,7 @@
+clear
+
+%Q files
+q1  %run Question 1
+q2  %run Question 2
+q3  %run Question 3
+q4  %run Question 4
